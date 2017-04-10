@@ -1,0 +1,3 @@
+SLACK_BOT_TOKEN='xoxb-163263228658-U8dpD3MdWAOu2hI2b6dKjiMT'
+BOT_NAME = 'hornsandhooves-helper'
+BOT_ID = 'U4T7R6QKC'
